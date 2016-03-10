@@ -4,6 +4,7 @@
 4. cd to folder HocPHP to start to code
 5. sudo nano /etc/nginx/sites-available/HocPHP.conf
 6. We get the command screen, copy all content into, change the folder as your computer and save:
+
 server {
     listen 80;
 
